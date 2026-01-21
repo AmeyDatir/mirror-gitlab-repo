@@ -1,5 +1,6 @@
 # **Mirror-Repository-GitHub & GitLab**
-    The objective of this project is to create an automated mirror repository that continuously synchronizes a GitHub repository with GitLab, ensuring redundancy, reliability, and seamless cross-platform access to the codebase.
+
+The objective of this project is to create an automated mirror repository that continuously synchronizes a GitHub repository with GitLab, ensuring redundancy, reliability, and seamless cross-platform access to the codebase.
 
 # Architecture
 
